@@ -1,0 +1,15 @@
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-5\Leaning-5\Leaning-5\bin\Debug\net7.0\Leaning-5.exe
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-5\Leaning-5\Leaning-5\bin\Debug\net7.0\Leaning-5.deps.json
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-5\Leaning-5\Leaning-5\bin\Debug\net7.0\Leaning-5.runtimeconfig.json
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-5\Leaning-5\Leaning-5\bin\Debug\net7.0\Leaning-5.dll
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-5\Leaning-5\Leaning-5\bin\Debug\net7.0\Leaning-5.pdb
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-5\Leaning-5\Leaning-5\obj\Debug\net7.0\Leaning-5.csproj.AssemblyReference.cache
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-5\Leaning-5\Leaning-5\obj\Debug\net7.0\Leaning-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-5\Leaning-5\Leaning-5\obj\Debug\net7.0\Leaning-5.AssemblyInfoInputs.cache
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-5\Leaning-5\Leaning-5\obj\Debug\net7.0\Leaning-5.AssemblyInfo.cs
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-5\Leaning-5\Leaning-5\obj\Debug\net7.0\Leaning-5.csproj.CoreCompileInputs.cache
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-5\Leaning-5\Leaning-5\obj\Debug\net7.0\Leaning-5.dll
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-5\Leaning-5\Leaning-5\obj\Debug\net7.0\refint\Leaning-5.dll
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-5\Leaning-5\Leaning-5\obj\Debug\net7.0\Leaning-5.pdb
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-5\Leaning-5\Leaning-5\obj\Debug\net7.0\Leaning-5.genruntimeconfig.cache
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-5\Leaning-5\Leaning-5\obj\Debug\net7.0\ref\Leaning-5.dll
